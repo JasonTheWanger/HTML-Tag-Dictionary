@@ -17,7 +17,7 @@
 <li>: Put a sentence or something in a list (default as unordered list)
 	Attributes: none
 	Example: <li> Sugar </li>
-			 <li> Salt </li>
+	         <li> Salt </li>
 
 <ol>:ordered list with 1234 but need <li> to include the thing in the list  
 	Attributes: none
