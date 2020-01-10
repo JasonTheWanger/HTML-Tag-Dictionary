@@ -22,9 +22,9 @@
 <ol>:ordered list with 1234 but need <li> to include the thing in the list  
 	Attributes: none
 	Example: <ol>
-			 <li> swim</li>
-			 <li> surf</li>
-			 </ol>
+	         <li> swim</li>
+		 <li> surf</li>
+		 </ol>
 <p>: Turn the inputs into text
 	Attributes: none
 	Example: <p> Yo, what's up </p>
@@ -32,6 +32,6 @@
 <ul>: Unordered list that use dot form but need <li> to include the thing in the list  
 	Attributes: none
 	Example: <ul>
-			 <li> swim</li>
-			 <li> surf</li>
-			 </ul>
+		 <li> swim</li>
+		 <li> surf</li>
+		 </ul>
