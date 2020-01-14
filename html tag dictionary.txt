@@ -17,14 +17,14 @@
 <li>: Put a sentence or something in a list (default as unordered list)
 	Attributes: none
 	Example: <li> Sugar </li>
-	         <li> Salt </li>
+			 <li> Salt </li>
 
 <ol>:ordered list with 1234 but need <li> to include the thing in the list  
 	Attributes: none
 	Example: <ol>
-	         <li> swim</li>
-		 <li> surf</li>
-		 </ol>
+			 <li> swim</li>
+			 <li> surf</li>
+			 </ol>
 <p>: Turn the inputs into text
 	Attributes: none
 	Example: <p> Yo, what's up </p>
@@ -32,6 +32,18 @@
 <ul>: Unordered list that use dot form but need <li> to include the thing in the list  
 	Attributes: none
 	Example: <ul>
-		 <li> swim</li>
-		 <li> surf</li>
-		 </ul>
+			 <li> swim</li>
+			 <li> surf</li>
+			 </ul>
+
+<!DOCTYPE>: Selects the version os HTML, the html attribute means you want the most recent version
+	Attribute: html
+<body>: Controls the content of your website
+
+<head>: Things for your browser to think about when looking at your webpage
+
+<html>: Marks the beginning and the end of your html code
+
+<title>: Controls the tab name
+
+<style>: Change the properties of the website
